@@ -6,6 +6,7 @@ lavalink:
     password: "youshallnotpass"
     sources:
       youtube: true
+      spotify: true
       soundcloud: true
       bandcamp: true
       twitch: true
